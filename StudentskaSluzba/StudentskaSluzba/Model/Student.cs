@@ -14,11 +14,12 @@ namespace StudentskaSluzba
         internal string ime;
         internal string prezime;
 
-        public Student(string imeArg, string prezimeArg, double prosekArg)
+        public Student(string imeArg, string prezimeArg, double prosekArg, string indeksArg)
         {
             ime = imeArg;
             prezime = prezimeArg;
             prosek = prosekArg;
+            indeks = indeksArg;
         }
     }
 }

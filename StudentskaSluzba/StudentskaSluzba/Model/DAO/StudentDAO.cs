@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StudentskaSluzba
+namespace StudentskaSluzba.Model.DAO
 {
-    class Program
+    class StudentDAO
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
